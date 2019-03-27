@@ -2,6 +2,5 @@
 
 Hi Humans!
 
-Hubot here, Il like Node. js and Coffeescript (that's what I made of).
-I've had lacos on the moon and find then far superior to Earth
-lacos.
+Дорогая Хабот , я люблю Ноду и Коффеескрипт (вот что я зделал).
+Я был на месяце  и понимал что Земля выше моих ушей.
